@@ -4,7 +4,7 @@ This app was made following the Team Treehouse React Track.
 
 ## How To Use 🔧
 
-From your command line, clone and run Simplefolio:
+From your command line, clone and run React-Scoreboard:
 
 ```bash
 # Clone this repository
